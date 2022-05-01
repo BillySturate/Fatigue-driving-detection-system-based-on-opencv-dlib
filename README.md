@@ -2,7 +2,7 @@
 
 ### 1.宣传海报
 
-![](E:\计算机c4网络挑战赛\Wake-基于面部多信息特征.jpg)
+![](Fatigue driving detection system/images/Wake-基于面部多信息特征.jpg)
 
 
 
@@ -10,7 +10,7 @@
 
 #### 2.1ui界面设计
 
-![](E:\计算机设计大赛演示文稿\123.png)
+![](https://raw.githubusercontent.com/Billysturate/Fatigue-driving-detection-system-based-on-opencv-dlib/main/Fatigue%20driving%20detection%20system/images/123.png)
 
 #### 2.2效果演示
 
@@ -18,9 +18,9 @@
 
 #### 2.4报表界面部分演示
 
-![](C:\Users\LH\Desktop\新建文件夹\Fatigue-driving-detection-system-based-on-opencv-dlib\Fatigue driving detection system\images\扇形图.png)
+![](https://raw.githubusercontent.com/Billysturate/Fatigue-driving-detection-system-based-on-opencv-dlib/main/Fatigue%20driving%20detection%20system/images/%E6%89%87%E5%BD%A2%E5%9B%BE.png)
 
-![](C:\Users\LH\Desktop\新建文件夹\Fatigue-driving-detection-system-based-on-opencv-dlib\Fatigue driving detection system\images\折线图.png)
+![](https://raw.githubusercontent.com/Billysturate/Fatigue-driving-detection-system-based-on-opencv-dlib/main/Fatigue%20driving%20detection%20system/images/%E6%8A%98%E7%BA%BF%E5%9B%BE.png)
 
 
 
