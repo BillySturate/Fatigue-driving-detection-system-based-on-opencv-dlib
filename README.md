@@ -2,7 +2,7 @@
 
 ### 1.宣传海报
 
-![](Fatigue driving detection system/images/Wake-基于面部多信息特征.jpg)
+![](Fatigue driving detection system/images/Wake-基于面部多信息特征融合的疲劳驾驶检测系统.jpg)
 
 
 
@@ -14,7 +14,7 @@
 
 #### 2.2效果演示
 
-![](E:\计算机设计大赛演示文稿\检测画面.png)
+![](Fatigue driving detection system/images/演示画面.png)
 
 #### 2.4报表界面部分演示
 
