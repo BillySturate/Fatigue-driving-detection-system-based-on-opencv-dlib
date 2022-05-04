@@ -14,7 +14,7 @@
 
 #### 2.2效果演示
 
-![](Fatigue driving detection system/images/演示画面.png)
+![](https://raw.githubusercontent.com/Billysturate/Fatigue-driving-detection-system-based-on-opencv-dlib/main/Fatigue%20driving%20detection%20system/images/%E6%BC%94%E7%A4%BA%E7%94%BB%E9%9D%A2.png)
 
 #### 2.4报表界面部分演示
 
