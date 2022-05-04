@@ -2,7 +2,7 @@
 
 ### 1.宣传海报
 
-![](Fatigue driving detection system/images/Wake-基于面部多信息特征融合的疲劳驾驶检测系统.jpg)
+![](https://raw.githubusercontent.com/Billysturate/Fatigue-driving-detection-system-based-on-opencv-dlib/main/Fatigue%20driving%20detection%20system/images/Wake-%E5%9F%BA%E4%BA%8E%E9%9D%A2%E9%83%A8%E5%A4%9A%E4%BF%A1%E6%81%AF%E7%89%B9%E5%BE%81%E8%9E%8D%E5%90%88%E7%9A%84%E7%96%B2%E5%8A%B3%E9%A9%BE%E9%A9%B6%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.jpg)
 
 
 
